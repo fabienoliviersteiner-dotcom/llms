@@ -1,0 +1,3 @@
+# llms.txt for z-design.ch
+User-Agent: *
+Allow: /
